@@ -1,5 +1,5 @@
 # Information
-Disables All PoliceAI (NPC/Cars/Parked)
+This lightweight script disables **All** PoliceAI from spawning. This includes all Police AI from walking around the cities, in front of police stations, etc. This also includes police senarios around the map such as parking, traffic stops, etc.
 
 # How To Use
 1. Download via Github
