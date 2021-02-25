@@ -4,8 +4,8 @@ This lightweight script disables **All** PoliceAI from spawning. This includes a
 # How To Use
 1. Download via Github
 2. Open Zipped Folder
-3. Drag 'Disable_PoliceAI-main' to your 'resources' folder
-4. Rename 'Disable_PoliceAI-main' to 'dpai'
+3. Open 'Disable_PoliceAI-main' folder
+4. Drag 'dpai' to your 'resources' folder
 5. Add 'start dpai' or 'ensure dpai' (depending server version) to your server.cfg file
 6. Start Server
 
