@@ -1,5 +1,7 @@
 # Information
-This lightweight script disables **All** Police AI from spawning. This includes all Police AI from walking around the cities, in front of police stations, etc. This also includes police senarios around the map such as parking, traffic stops, etc. Again, this removes all police from FiveM.
+This lightweight script disables **All** Police AI from spawning. This includes all Police AI from walking around the cities, in front of police stations, etc. This also includes police senarios around the map such as parking, traffic stops, etc. 
+
+Again, this removes all police from FiveM.
 
 # How To Use
 1. Download via Github
